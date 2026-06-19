@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Cute puppy illustration for Canva</title>
+  <desc id="desc">A cheerful kawaii puppy with floppy ears, blush cheeks, a pink collar, hearts, sparkles, and pastel background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff6fc"/>
+      <stop offset="1" stop-color="#f7dce9"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="16"/>
+      <feOffset dy="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.35 0 0 0 0 0.18 0 0 0 0 0.26 0 0 0 0.32 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <circle cx="165" cy="175" r="92" fill="#ffdceb" opacity="0.75"/>
+  <circle cx="848" cy="160" r="88" fill="#dcefff" opacity="0.75"/>
+  <circle cx="170" cy="860" r="95" fill="#e8ffe2" opacity="0.65"/>
+  <circle cx="875" cy="865" r="88" fill="#fff4cd" opacity="0.7"/>
+
+  <g fill="#ff77a0" opacity="0.78">
+    <path d="M199 363c-20-27-65 4-41 37l42 49 42-49c24-33-21-64-43-37z"/>
+    <path d="M819 174c-18-24-58 3-37 33l37 43 37-43c22-30-19-57-37-33z"/>
+    <path d="M167 692c-17-23-56 3-35 31l35 42 36-42c20-28-18-54-36-31z"/>
+  </g>
+
+  <g fill="#ffd64a" opacity="0.9">
+    <path d="M255 137l12 28 30 12-30 12-12 30-13-30-29-12 29-12z"/>
+    <path d="M758 630l10 24 25 10-25 10-10 26-11-26-24-10 24-10z"/>
+    <path d="M792 374l8 19 20 8-20 8-8 21-9-21-19-8 19-8z"/>
+  </g>
+
+  <g opacity="0.72" fill="#ffbcd2">
+    <g transform="translate(170 620)">
+      <ellipse cx="0" cy="16" rx="28" ry="38"/>
+      <circle cx="-25" cy="-13" r="11"/><circle cx="0" cy="-22" r="11"/><circle cx="25" cy="-13" r="11"/>
+    </g>
+    <g transform="translate(835 555) scale(.86)">
+      <ellipse cx="0" cy="16" rx="28" ry="38"/>
+      <circle cx="-25" cy="-13" r="11"/><circle cx="0" cy="-22" r="11"/><circle cx="25" cy="-13" r="11"/>
+    </g>
+  </g>
+
+  <ellipse cx="512" cy="842" rx="260" ry="58" fill="#6b3c50" opacity="0.16"/>
+
+  <g filter="url(#softShadow)">
+    <ellipse cx="512" cy="665" rx="225" ry="205" fill="#eea85c"/>
+    <ellipse cx="512" cy="690" rx="158" ry="166" fill="#fff2dd"/>
+
+    <ellipse cx="294" cy="413" rx="84" ry="176" fill="#eea85c"/>
+    <ellipse cx="730" cy="413" rx="84" ry="176" fill="#eea85c"/>
+    <ellipse cx="294" cy="415" rx="45" ry="111" fill="#7e4e36"/>
+    <ellipse cx="730" cy="415" rx="45" ry="111" fill="#7e4e36"/>
+
+    <ellipse cx="512" cy="395" rx="242" ry="218" fill="#fac380"/>
+    <ellipse cx="512" cy="475" rx="138" ry="115" fill="#fff7e8"/>
+
+    <circle cx="405" cy="355" r="45" fill="#442d22"/>
+    <circle cx="615" cy="355" r="45" fill="#442d22"/>
+    <circle cx="395" cy="338" r="14" fill="#fff" opacity="0.95"/>
+    <circle cx="605" cy="338" r="14" fill="#fff" opacity="0.95"/>
+    <circle cx="424" cy="376" r="7" fill="#fff" opacity="0.75"/>
+    <circle cx="634" cy="376" r="7" fill="#fff" opacity="0.75"/>
+
+    <ellipse cx="512" cy="430" rx="26" ry="20" fill="#68402b"/>
+    <path d="M511 448c-17 36-62 37-74 5" fill="none" stroke="#68402b" stroke-width="8" stroke-linecap="round"/>
+    <path d="M513 448c17 36 62 37 74 5" fill="none" stroke="#68402b" stroke-width="8" stroke-linecap="round"/>
+    <rect x="490" y="505" width="44" height="74" rx="22" fill="#ff8eb2"/>
+    <path d="M512 520v38" stroke="#e15f91" stroke-width="4" stroke-linecap="round"/>
+
+    <ellipse cx="374" cy="446" rx="48" ry="25" fill="#ff9db7" opacity="0.55"/>
+    <ellipse cx="650" cy="446" rx="48" ry="25" fill="#ff9db7" opacity="0.55"/>
+
+    <rect x="362" y="604" width="300" height="58" rx="29" fill="#ff7ca6"/>
+    <circle cx="512" cy="663" r="28" fill="#ffeb60"/>
+    <text x="512" y="674" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#a86e1e">★</text>
+
+    <g fill="#ffe8cc">
+      <ellipse cx="416" cy="785" rx="62" ry="68"/>
+      <ellipse cx="608" cy="785" rx="62" ry="68"/>
+    </g>
+    <g fill="#c68053">
+      <circle cx="387" cy="775" r="9"/><circle cx="416" cy="765" r="9"/><circle cx="445" cy="775" r="9"/>
+      <circle cx="579" cy="775" r="9"/><circle cx="608" cy="765" r="9"/><circle cx="637" cy="775" r="9"/>
+    </g>
+  </g>
+</svg>
